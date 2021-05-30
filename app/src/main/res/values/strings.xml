@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LAB1</string>
+    <string name="employee_name">Shreyas C</string>
+    <string name="designation">Software Developer</string>
+    <string name="phone">7854632195</string>
+    <string name="address">Mangalore</string>
+    <string name="email">shreyas@gmail.com</string>
+
+
+</resources>
